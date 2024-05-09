@@ -11,7 +11,7 @@
 ## 🌈 Navigating this repository
 
 Feel free to explore the files:
-Each files corresponds to a specific project.
+Each files corresponds to a specific project or theme linked to my profile.
 
 ## 💖 Connect and engage with me !
 
