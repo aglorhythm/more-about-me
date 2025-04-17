@@ -27,7 +27,7 @@
 |  **<p align="center">📢 Marketing</p>**        |  **<p align="center">💾 Data</p>**|
 | * Market **research & strategy** <br> * Branding  <br> * SEO <br> * Statistical **analysis & monitoring** <br> * Content planning <br> * Content creation (texts, images, videos) <br> * Social Media Management (IG, FB, TikTok) | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
 
-## My Certifications
+## My Certifications & Certificates
 
 - 2025, AWS Certified Security - still learning
 - 2025, AWS Solution Architect Associate - still learning
