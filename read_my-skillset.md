@@ -26,3 +26,13 @@
 | * Full-stack **development** <br> * **Deployment** of applications on cloud platforms <br> * **Configuration** of DNS servers <br> * API and UI **testing** <br> * Application **configuration** <br> * **Security** practices | * **Communication** with stakeholders <br> * Creating and maintaining **project documentation** <br> * Deliverables **evaluation**, base on customer requirements <br> * User **support** & continuous **improvement** <br> * Risk management <br> * Group **collaboration**
 |  **<p align="center">📢 Marketing</p>**        |  **<p align="center">💾 Data</p>**|
 | * Market **research & strategy** <br> * Branding  <br> * SEO <br> * Statistical **analysis & monitoring** <br> * Content planning <br> * Content creation (texts, images, videos) <br> * Social Media Management (IG, FB, TikTok) | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
+
+## My Certifications
+
+- 2025, AWS Certified Security - still learning
+- 2025, AWS Solution Architect Associate - still learning
+- 2025, ISO 27001 - still learning
+- 2025, [ETL in Python and SQL](https://www.linkedin.com/learning/certificates/48350aff54fc1779f4a308881f898a88ad6008ef81801be66a1af17337d2a790?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZ8DDS1N2R%2BK0vi%2BROJMwKw%3D%3D), Linkedin Learning
+- 2024, [Learn Python 2](https://www.codecademy.com/profiles/method3397028577/certificates/b97fd4d87a816c761a674af1b5391ef1), CodeCademy
+- 2023, [Introduction to Cloud Computing](https://www.credly.com/badges/581d1301-19ce-4966-bb74-be57c9ba92d5/linked_in_profile), IBM -Coursera
+- 2020, [Responsive Web Design](https://freecodecamp.org/certification/olgaam/responsive-web-design), FreeCodeCamps
