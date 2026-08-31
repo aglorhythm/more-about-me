@@ -1,38 +1,218 @@
 ## My Skill Set
 
-| Category            | Skills                                        |
-|---------------------|-----------------------------------------------|
-| Langages & scripting           | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>     |
-| Command-Line, Version Control systems, IDE, Packages | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://desktop.github.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/desktop.github.com" width="36" height="36" alt="Git" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/yarnpkg.com" width="36" height="36" alt="Yarn" /></a> <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/npmjs.com" width="36" height="36" alt="npm" /></a> <a href="https://wiki.debian.org/Apt" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/debian.org" width="36" height="36" alt="APT" /></a>|
-| Frontend (Frameworks & Ecosystems) | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://nextui.org/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4D0BAQEs3Q9gQkNp4g/company-logo_200_200/0/1668448099483/nextui_org_logo?e=2147483647&v=beta&t=aHBf4xk_tZCDaX2wo-OzYJhZxexB9ymRafEviqqHFlk" width="36" height="36" alt="Next UI" /></a><a href="https://getuikit.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/uikit_logo_icon_144774.png" width="36" height="36" alt="UIkit" /></a>              |
-| Backend (Frameworks & Ecosystems)  | <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>                         |
-| Cloud Platforms | <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcLtxlrrX6GRomfz_4fQPpBCIyHDK374Adw&s" width="36" height="36" alt="Amazon Web Services" /></a> <a href="https://cloudinary.com/documentation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="36" height="36" alt="Cloudinary" /></a>  |
-| CMS        | <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a> <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a> <a href="https://shopify.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wAPg9nCNoOcxJodmNEX_vAJ6tnQMP42qvA&s" width="36" height="36" alt="Shopify" /></a> <a href="https://strapi.io" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/strapi.io" width="36" height="36" alt="Strapi" /></a> <a href="https://www.drupal.org" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/drupal.org" width="36" height="36" alt="Drupal" /></a> |
-| Databases | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>                    |
-| APIs | <a href="https://stripe.com/docs" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/stripe.com" width="36" height="36" alt="Stripe" /></a> <a href="https://developers.google.com/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/google.com" width="36" height="36" alt="Google" /></a> <a href="https://developers.facebook.com/docs/graph-api" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/facebook.com" width="36" height="36" alt="Facebook Graph" /></a><a href="https://cloudinary.com/documentation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="36" height="36" alt="Cloudinary" /></a> <a href="https://www.swell.is/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/swell.is" width="36" height="36" alt="Swell.js" /></a> <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/getpostman.com" width="36" height="36" alt="Postman" /></a> <a href="https://www.box.com/en-gb/home" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/box.com" width="36" height="36" alt="Box" /></a> <a href="https://telegraf.js.org/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/telegram.org" width="36" height="36" alt="Telegraf" /></a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a> |
-| Systèmes d'exploitation | <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/microsoft.com" width="36" height="36" alt="Windows" /></a> |
-| Graphism | <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/canva.com" width="36" height="36" alt="Canva" /></a> |
-| Analytics | Google Analytics 4, Google Tag Manager |
-| SEO | <a href="https://search.google.com/search-console" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/google.com" width="36" height="36" alt="Google Search Console" /></a> <a href="https://ahrefs.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/ahrefs.com" width="36" height="36" alt="Ahrefs" /></a> <a href="https://www.semrush.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/semrush.com" width="36" height="36" alt="SEMrush" /></a> |
-| Marketing | <a href="https://mailchimp.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/mailchimp.com" width="36" height="36" alt="Mailchimp" /></a> <a href="https://sendgrid.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/sendgrid.com" width="36" height="36" alt="SendGrid" /></a> <a href="https://brevo.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMkEGIBZkPfAryJeZwQrYWD9GSs40TqSipzWib4Ywgg&s" width="36" height="36" alt="Brevo" /></a> <a href="https://planoly.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/planoly.com" width="36" height="36" alt="Planoly" /> </a> <a href="https://www.hotjar.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/hotjar.com" width="36" height="36" alt="Hotjar" /></a> <a href="https://ads.google.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/google.com" width="36" height="36" alt="Google Ads" /></a> <a href="https://www.facebook.com/business/ads" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/facebook.com" width="36" height="36" alt="Facebook Ads" /></a> |
-| Project Management & Collaboration | <a href="https://clickup.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/clickup.com" width="36" height="36" alt="ClickUp" /></a> <a href="https://asana.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/asana.com" width="36" height="36" alt="Asana" /></a> <a href="https://airtable.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/airtable.com" width="36" height="36" alt="Airtable" /></a> <a href="https://miro.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/miro.com" width="36" height="36" alt="Miro" /></a> |
-| Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/318027?s=280&v=4" width="36" height="36" alt="Mantis" /></a> <a href="https://ngrok.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/ngrok.com" width="36" height="36" alt="Mantis" /></a> |
-| Cybersecurity | <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/cloudflare.com" width="36" height="36" alt="Mantis" /></a> |
+My background spans business, operations, and technology.  
+I don't claim the same level of expertise across every area below — this is a map of the technologies, methods, and disciplines I have worked with through professional experience, entrepreneurship, training, and personal projects.
+
+
+### 🏗️ Enterprise Architecture & Information Systems
+
+- Business & IT alignment
+- Information Systems analysis
+- Business process mapping
+- Application & system mapping
+- AS-IS / TO-BE analysis
+- Requirements analysis
+- Data flows & system interactions
+- API & integration architecture
+- Architecture documentation
+- Digital transformation
+- Technology assessment
+- Operational & information-system dependencies
+
+
+### 📊 Business Analysis & Operational Excellence
+
+- Business Analysis / AMOA
+- Requirements gathering & analysis
+- Stakeholder coordination
+- Business process analysis
+- Process mapping
+- Process improvement
+- Operational Excellence
+- Workflow design
+- Customer & user journeys
+- Gap analysis
+- Functional testing / UAT
+- Deliverables evaluation
+- Project documentation
+- User support
+- Continuous improvement
+- Risk identification
+- Change & adoption support
+
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+- AWS
+- Linux
+- Docker
+- CI/CD
+- Git / GitHub
+- Bash
+- Infrastructure & application deployment
+- Environment configuration
+- DNS configuration
+- Access management
+- Monitoring concepts
+- Cloud security fundamentals
+
+
+### 🔗 Integration, Automation & APIs
+
+- REST APIs
+- API integration
+- Webhooks
+- n8n
+- Workflow automation
+- AI-assisted workflows
+- Postman
+- Stripe API
+- Google APIs
+- Meta / Facebook Graph API
+- Cloudinary
+- Application integrations
+
+
+### 💻 Development & Scripting
+
+**Languages**
+
+Python • JavaScript • Bash • HTML • CSS
+
+**Frontend**
+
+React • Next.js • Tailwind CSS • Material UI • UIkit
+
+**Backend**
+
+Node.js • Express • Django
+
+**Databases**
+
+PostgreSQL • MySQL • MongoDB
+
+**Development tools**
+
+Git • GitHub • VS Code • PyCharm • npm • Yarn
+
+
+### 🗄️ Data & Governance
+
+- Relational & NoSQL databases
+- Data modelling fundamentals
+- ETL fundamentals
+- Data flows
+- Data governance
+- Data quality concepts
+- Access management
+- GDPR fundamentals
+- Information security fundamentals
+
+
+### 🔐 Security
+
+- Identity & access management fundamentals
+- Cloud security fundamentals
+- GDPR / privacy fundamentals
+- Security-by-design awareness
+- Cloudflare
+- Application & API security fundamentals
+
+
+### ⚙️ Business Systems & Digital Operations
+
+- CRM & operational workflows
+- E-commerce systems
+- CMS ecosystems
+- Booking & customer journeys
+- Back-office workflows
+- SaaS integrations
+- Business automation
+- Digital operations
+- System & tool selection
+- Operational process improvement
+
+
+### 🛒 Commerce & CMS
+
+Shopify • WordPress • Strapi • Drupal • Wix
+
+
+### 📈 Marketing, Growth & Analytics
+
+My first professional and entrepreneurial experiences were rooted in communication and marketing, which still influences how I approach business and technology.
+
+- Market research & strategy
+- Go-to-market fundamentals
+- Customer journeys
+- Branding
+- SEO
+- Google Analytics 4
+- Google Tag Manager
+- Google Search Console
+- Ahrefs
+- SEMrush
+- Email marketing
+- Content strategy
+- Digital acquisition fundamentals
+
+
+### 🎨 Design & UX
+
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Canva
+- UX fundamentals
+- Interface prototyping
+- Customer journey design
+
+
+### 🗂️ Project & Collaboration Tools
+
+ClickUp • Asana • Airtable • Miro • GitHub
 
 
 ## My Expertise
-| 💻 Web                 | 👩🏿‍💼 Project management                            |
-|---------------------|-----------------------------------------------|
-| * Full-stack **development** <br> * **Deployment** of applications on cloud platforms <br> * **Configuration** of DNS servers <br> * API and UI **testing** <br> * Application **configuration** <br> * **Security** practices | * **Communication** with stakeholders <br> * Creating and maintaining **project documentation** <br> * Deliverables **evaluation**, base on customer requirements <br> * User **support** & continuous **improvement** <br> * Risk management <br> * Group **collaboration**
-|  **<p align="center">📢 Marketing</p>**        |  **<p align="center">💾 Data</p>**|
-| * Market **research & strategy** <br> * Branding  <br> * SEO <br> * Statistical **analysis & monitoring** <br> * Content planning <br> * Content creation (texts, images, videos) <br> * Social Media Management (IG, FB, TikTok) | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
 
-## My Certifications & Certificates
+### 🔹 Business ↔ Technology
 
-- 2025, AWS Certified Security - still learning
-- 2025, AWS Solution Architect Associate - still learning
-- 2025, ISO 27001 - still learning
-- 2025, [ETL in Python and SQL](https://www.linkedin.com/learning/certificates/48350aff54fc1779f4a308881f898a88ad6008ef81801be66a1af17337d2a790?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZ8DDS1N2R%2BK0vi%2BROJMwKw%3D%3D), Linkedin Learning
-- 2024, [Learn Python 2](https://www.codecademy.com/profiles/method3397028577/certificates/b97fd4d87a816c761a674af1b5391ef1), CodeCademy
-- 2023, [Introduction to Cloud Computing](https://www.credly.com/badges/581d1301-19ce-4966-bb74-be57c9ba92d5/linked_in_profile), IBM -Coursera
-- 2020, [Responsive Web Design](https://freecodecamp.org/certification/olgaam/responsive-web-design), FreeCodeCamps
+My strongest differentiator is my ability to work between business and technology.
+
+I can understand operational and business requirements, translate them into information-system needs, communicate with technical stakeholders, and understand enough of the underlying technology to contribute to solution design and delivery.
+
+
+### 🔹 Business Analysis & Information Systems
+
+- Business and functional analysis
+- Requirements analysis
+- Stakeholder coordination
+- Information-system analysis
+- Process and system mapping
+- Functional testing & UAT
+- Documentation
+- User support
+- Continuous improvement
+
+
+### 🔹 Technology & Engineering
+
+- Cloud & DevOps fundamentals
+- Application deployment
+- APIs & integrations
+- Automation
+- Development & scripting
+- Databases
+- CI/CD
+- Linux environments
+- Security & access-management fundamentals
+
+
+### 🔹 Operations & Entrepreneurship
+
+Building my own projects gave me hands-on exposure to the full lifecycle of digital systems:
+
+**idea → business model → process → technology → implementation → operations → improvement**
+
+This is also why I'm particularly interested in Enterprise Architecture and Operational Excellence: I enjoy looking at organizations as interconnected systems rather than isolated tools or applications.
